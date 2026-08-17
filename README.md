@@ -1,8 +1,8 @@
 # sqa-testing-portfolio
-A collection of Python scripts and pytest test suites demonstrating software quality assurance practices, including input validation, edge case testing, and automated test design.
+A collection of Python scripts and pytest test suites demonstrating software quality assurance practices, including edge-case testing and automated test design.
 
 # What This Project Does
-This repository contains simple Python functions and automated test cases written with pytest. It's meant to demonstrate core QA/testing skills, including:
+This repository contains simple Python functions and automated test cases written with pytest. It's meant to demonstrate core SQA/testing skills, including:
 
 1. Writing testable Python functions
 2. Designing test cases (positive, negative, and edge cases)
